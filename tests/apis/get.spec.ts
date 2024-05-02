@@ -1,5 +1,5 @@
 import {test, expect} from '@playwright/test';
-import { urls } from './../../src/resources/urls';
+import { urls } from '../../src/resources/urls';
 import {faker} from '@faker-js/faker';
 
 test('API Test - Get single users', async ({request}) => {
