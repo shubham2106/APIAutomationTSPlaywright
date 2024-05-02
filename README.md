@@ -1,6 +1,8 @@
 # APIAutomationTSPlaywright
 This is an api automation using playwright and ts
 
+First of all run the command - npm i - This will add all the necessary libs. 
+
 To execute scripts - npx playwright test script-name. i.e "npx playwright test post.spec.ts" - This command will execute post api's script.
 
 To execute all scripts - npx playwright test
